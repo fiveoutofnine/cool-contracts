@@ -11,10 +11,14 @@ A compilation of cool/fun/interesting smart contracts.
     * Deployed to mainnet at [`0x0e0c6a8575d0cc3e9b65eb3259b52e2eb348e2b5`](https://etherscan.io/address/0x0e0c6a8575d0cc3e9b65eb3259b52e2eb348e2b5/)
 * <b>SHITDAO</b> by [smartcontracts](https://github.com/smartcontracts/)
     * [Code](https://github.com/smartcontracts/shitdao/)
-* <b>totemNFT</b> by [<b>0age</b>](https://github.com/0age/): on-chain video + audio rendering
+* <b>totemNFT</b> by [<b>0age</b>](https://github.com/0age/): on-chain video + audio rendering.
     * [Code](https://polygonscan.com/address/0x681a33cef2170ba0564dfcef4b5ce79c1ed20074#code/)
     * Deployed to Polygon at [`0x681a33cef2170ba0564dfcef4b5ce79c1ed20074`](https://polygonscan.com/address/0x681a33cef2170ba0564dfcef4b5ce79c1ed20074/)
-* <b>bleeps</b> by [<b>wighawag</b>](https://github.com/wighawag/)
+* <b>bleeps</b> by [<b>wighawag</b>](https://github.com/wighawag/): fully generated on-chain sounds with configurable sound profiles.
     * [Code](https://github.com/wighawag/bleeps/)
     * [Tweet](https://twitter.com/BleepsDao/)
     * Deployed to mainnet at [`0x9d27527Ada2CF29fBDAB2973cfa243845a08Bd3F`](https://etherscan.io/address/0x9d27527Ada2CF29fBDAB2973cfa243845a08Bd3F/)
+* <b>ChainToadz</b> by [wattsy](https://twitter.com/wattsyart)
+    * [Code](https://etherscan.io/address/0xacd235697b33a0b4cf7a8ef52a81c01d28a150c6#code/)
+    * [Tweet](https://twitter.com/wattsyart/status/1471957355847892994/)
+    * Deployed to mainnet at [`0xacd235697b33a0b4cf7a8ef52a81c01d28a150c6`](https://etherscan.io/address/0xacd235697b33a0b4cf7a8ef52a81c01d28a150c6/)
