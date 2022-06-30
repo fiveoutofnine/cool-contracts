@@ -18,7 +18,7 @@ A compilation of cool/fun/interesting smart contracts.
     * [Code](https://github.com/wighawag/bleeps/)
     * [Tweet](https://twitter.com/BleepsDao/)
     * Deployed to mainnet at [`0x9d27527Ada2CF29fBDAB2973cfa243845a08Bd3F`](https://etherscan.io/address/0x9d27527Ada2CF29fBDAB2973cfa243845a08Bd3F/)
-* <b>ChainToadz</b> by [wattsy](https://twitter.com/wattsyart)
+* <b>ChainToadz</b> by [wattsy](https://twitter.com/wattsyart): on-chain GIF rendering.
     * [Code](https://etherscan.io/address/0xacd235697b33a0b4cf7a8ef52a81c01d28a150c6#code/)
     * [Tweet](https://twitter.com/wattsyart/status/1471957355847892994/)
     * Deployed to mainnet at [`0xacd235697b33a0b4cf7a8ef52a81c01d28a150c6`](https://etherscan.io/address/0xacd235697b33a0b4cf7a8ef52a81c01d28a150c6/)
