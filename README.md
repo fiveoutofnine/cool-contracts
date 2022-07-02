@@ -30,3 +30,7 @@ A compilation of cool/fun/interesting smart contracts.
     * [Code](https://etherscan.io/address/0x947600aD1AD2fADF88faF7d30193D363208fC76D#code/)
     * [Tweet](https://twitter.com/SpectraArt_NFT/status/1492848788767064068/)
     * Deployed to mainnet at [`0x947600aD1AD2fADF88faF7d30193D363208fC76D`](https://etherscan.io/address/0x947600aD1AD2fADF88faF7d30193D363208fC76D/)
+* <b>Kiss Precise</b> by [<b>Divergence</b>](https://twitter.com/divergence_art/) and [<b>Etheseus</b>](https://twitter.com/etheseus_art/): an [on-chain] long-form, smart-contract-generated NFT collection based on the [<b>Apollonian Gasket</b>](https://en.wikipedia.org/wiki/Apollonian_gasket).
+    * [Code](https://etherscan.io/address/0x976a145bce31266d3ed460a359330dd53466db97#code/)
+    * [Twitter](https://twitter.com/thekissprecise/)
+    * Deployed to mainnet at [`0x976a145bce31266d3ed460a359330dd53466db97`](https://etherscan.io/address/0x976a145bce31266d3ed460a359330dd53466db97/)
