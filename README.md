@@ -26,3 +26,7 @@ A compilation of cool/fun/interesting smart contracts.
     * [Code](https://github.com/kohiart/kohi-composer/)
     * [Website](https://kohi.art/)
     * Deployed to mainnet at [`0xfc76b5e4bd3073ecbaad209b34aa66243ff7021d`](https://etherscan.io/address/0xfc76b5e4bd3073ecbaad209b34aa66243ff7021d/)
+* <b>Shackled</b> by [<b>spectra</b>](https://www.spectra.art/): general purpose on-chain 3D rendering engine.
+    * [Code](https://etherscan.io/address/0x947600aD1AD2fADF88faF7d30193D363208fC76D#code/)
+    * [Tweet](https://twitter.com/SpectraArt_NFT/status/1492848788767064068/)
+    * Deployed to mainnet at [`0x947600aD1AD2fADF88faF7d30193D363208fC76D`](https://etherscan.io/address/0x947600aD1AD2fADF88faF7d30193D363208fC76D/)
