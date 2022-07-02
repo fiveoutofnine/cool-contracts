@@ -34,3 +34,5 @@ A compilation of cool/fun/interesting smart contracts.
     * [Code](https://etherscan.io/address/0x976a145bce31266d3ed460a359330dd53466db97#code/)
     * [Twitter](https://twitter.com/thekissprecise/)
     * Deployed to mainnet at [`0x976a145bce31266d3ed460a359330dd53466db97`](https://etherscan.io/address/0x976a145bce31266d3ed460a359330dd53466db97/)
+* <b>Tiny DNN on StarkNet</b> by [<b>guiltygyoza</b>](https://github.com/guiltygyoza/): neural network inference on StarkNet
+    * [Code](https://github.com/guiltygyoza/tiny-dnn-on-starknet/)
