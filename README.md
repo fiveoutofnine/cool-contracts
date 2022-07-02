@@ -9,7 +9,7 @@ A compilation of cool/fun/interesting smart contracts.
     * [Code](https://etherscan.io/address/0x0e0c6a8575d0cc3e9b65eb3259b52e2eb348e2b5#code/)
     * [Tweet](https://twitter.com/boredGenius/status/1421387579270725635/)
     * Deployed to mainnet at [`0x0e0c6a8575d0cc3e9b65eb3259b52e2eb348e2b5`](https://etherscan.io/address/0x0e0c6a8575d0cc3e9b65eb3259b52e2eb348e2b5/)
-* <b>SHITDAO</b> by [smartcontracts](https://github.com/smartcontracts/)
+* <b>SHITDAO</b> by [<b>smartcontracts</b>](https://github.com/smartcontracts/)
     * [Code](https://github.com/smartcontracts/shitdao/)
 * <b>totemNFT</b> by [<b>0age</b>](https://github.com/0age/): on-chain video + audio rendering.
     * [Code](https://polygonscan.com/address/0x681a33cef2170ba0564dfcef4b5ce79c1ed20074#code/)
@@ -18,7 +18,11 @@ A compilation of cool/fun/interesting smart contracts.
     * [Code](https://github.com/wighawag/bleeps/)
     * [Tweet](https://twitter.com/BleepsDao/)
     * Deployed to mainnet at [`0x9d27527Ada2CF29fBDAB2973cfa243845a08Bd3F`](https://etherscan.io/address/0x9d27527Ada2CF29fBDAB2973cfa243845a08Bd3F/)
-* <b>ChainToadz</b> by [wattsy](https://twitter.com/wattsyart): on-chain GIF rendering.
+* <b>ChainToadz</b> by [<b>wattsy</b>](https://twitter.com/wattsyart): on-chain GIF rendering.
     * [Code](https://etherscan.io/address/0xacd235697b33a0b4cf7a8ef52a81c01d28a150c6#code/)
     * [Tweet](https://twitter.com/wattsyart/status/1471957355847892994/)
     * Deployed to mainnet at [`0xacd235697b33a0b4cf7a8ef52a81c01d28a150c6`](https://etherscan.io/address/0xacd235697b33a0b4cf7a8ef52a81c01d28a150c6/)
+* <b>Kohi</b> by [<b>wattsy</b>](https://twitter.com/wattsyart): on-chain generative art rendering. Some [<b>examples</b>](https://kohi.art/collections/).
+    * [Code](https://github.com/kohiart/kohi-composer/)
+    * [Website](https://kohi.art/)
+    * Deployed to mainnet at [`0xfc76b5e4bd3073ecbaad209b34aa66243ff7021d`](https://etherscan.io/address/0xfc76b5e4bd3073ecbaad209b34aa66243ff7021d/)
