@@ -1,5 +1,5 @@
 # cool-contracts
-A compilation of cool/fun/interesting smart contracts.
+A compilation of smart contracts I find cool/fun/interesting.
 
 * <b>On-Chain Chess Engine</b> by [<b>5/9</b>](https://github.com/fiveoutofnine/): an on-chain chess engine, where you play against a smart contract, and each move is minted as an NFT (+ on-chain art and metadata).
     * [Code](https://github.com/fiveoutofnine/fiveoutofnine-chess/)
@@ -38,3 +38,5 @@ A compilation of cool/fun/interesting smart contracts.
     * [Code](https://github.com/guiltygyoza/tiny-dnn-on-starknet/)
 * <b>Clones With Immutable Args</b> by [<b>wighawag</b>](https://github.com/wighawag/): enables creating clone contracts with immutable arguments.
     * [Code](https://github.com/wighawag/clones-with-immutable-args/)
+* <b>`SSTORE2`</b> by [<b>0xSequence</b>](https://github.com/0xSequence/): set of Solidity libraries for writing/reading contract storage paying a fraction of the cost.
+    * [Code](https://github.com/0xSequence/sstore2/)
