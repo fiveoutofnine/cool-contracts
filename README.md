@@ -40,7 +40,9 @@ A compilation of smart contracts I find cool/fun/interesting.
     * [Code](https://github.com/wighawag/clones-with-immutable-args/)
 * <b>`SSTORE2`</b> by [<b>0xSequence</b>](https://github.com/0xSequence/): set of Solidity libraries for writing/reading contract storage paying a fraction of the cost.
     * [Code](https://github.com/0xSequence/sstore2/)
-* <b>Strange Attractors</b> by [<b>cxkoda</b>](https://github.com/cxkoda/)
+* <b>Strange Attractors</b> by [<b>cxkoda</b>](https://github.com/cxkoda/): simulating chaotic, three-dimensional systems directly on the Ethereum blockchain.
     * [Code](https://etherscan.io/address/0x1cA15CCdd91b55CD617a48dC9eEFb98CAe224757#code/)
-    * [Twitter](https://twitter.com/StrngeAttrctors/): simulating chaotic, three-dimensional systems directly on the Ethereum blockchain.
+    * [Twitter](https://twitter.com/StrngeAttrctors/)
     * Deployed to mainnet at [`0x1cA15CCdd91b55CD617a48dC9eEFb98CAe224757`](https://etherscan.io/address/0x1cA15CCdd91b55CD617a48dC9eEFb98CAe224757/)
+* <b>Metamorphic</b> by [<b>0age</b>](https://github.com/0age/): a factory contract for creating metamorphic (i.e. redeployable) contracts.
+    * [Code](https://github.com/0age/metamorphic/)
