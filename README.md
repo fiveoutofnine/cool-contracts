@@ -46,3 +46,8 @@ A compilation of smart contracts I find cool/fun/interesting.
     * Deployed to mainnet at [`0x1cA15CCdd91b55CD617a48dC9eEFb98CAe224757`](https://etherscan.io/address/0x1cA15CCdd91b55CD617a48dC9eEFb98CAe224757/)
 * <b>Metamorphic</b> by [<b>0age</b>](https://github.com/0age/): a factory contract for creating metamorphic (i.e. redeployable) contracts.
     * [Code](https://github.com/0age/metamorphic/)
+* <b>Aavegotchi Onchain Svg Renderer</b> by [<b>Nick Mudge</b>](https://github.com/mudgen/): Rendering all aavegotchi onchain svgs based on layering to give a whole image..especially Summoned aavegotchis with equipped wearables.
+    * [Code](https://github.com/aavegotchi/aavegotchi-contracts/blob/master/contracts/Aavegotchi/facets/SvgFacet.sol)
+    * [Twitter](https://twitter.com/aavegotchi)
+    * Diamond/Proxy deployed to polygon mainnet at [`0x86935f11c86623dec8a25696e1c19a8659cbf95d`](https://polygonscan.com/token/0x86935f11c86623dec8a25696e1c19a8659cbf95d)
+    * Facet/implementation deployed to polygon mainnet at [`0x8d4C8559E07cF784B8912a306a2b9f3B3f34E92E`](https://polygonscan.com/address/0x8d4C8559E07cF784B8912a306a2b9f3B3f34E92E)
