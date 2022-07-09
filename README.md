@@ -51,3 +51,7 @@ A compilation of smart contracts I find cool/fun/interesting.
     * [Twitter](https://twitter.com/aavegotchi)
     * Diamond/Proxy deployed to polygon mainnet at [`0x86935f11c86623dec8a25696e1c19a8659cbf95d`](https://polygonscan.com/token/0x86935f11c86623dec8a25696e1c19a8659cbf95d)
     * Facet/implementation deployed to polygon mainnet at [`0x8d4C8559E07cF784B8912a306a2b9f3B3f34E92E`](https://polygonscan.com/address/0x8d4C8559E07cF784B8912a306a2b9f3B3f34E92E)
+* <b>Hot Chain SVG</b> by [<b>@w1nt3r-eth</b>](https://github.com/w1nt3r-eth/): a toolkit for building on-chain SVG projects.
+    * [Code](https://github.com/w1nt3r-eth/hot-chain-svg)
+    * [Twitter](https://twitter.com/w1nt3r_eth/status/1514380306555412482)
+    * Deployed to mainnet at [`0xa7988c8abb7706e024a8f2a1328e376227aaad18`](https://etherscan.io/address/0xa7988c8abb7706e024a8f2a1328e376227aaad18/)
