@@ -34,6 +34,10 @@ A compilation of smart contracts I find cool/fun/interesting.
     * [Code](https://etherscan.io/address/0x976a145bce31266d3ed460a359330dd53466db97#code/)
     * [Twitter](https://twitter.com/thekissprecise/)
     * Deployed to mainnet at [`0x976a145bce31266d3ed460a359330dd53466db97`](https://etherscan.io/address/0x976a145bce31266d3ed460a359330dd53466db97/)
+* <b>All series</b> by [<b>256ART</b>](https://www.256art.com/): long-form on-chain, generative art, minimal proxy smart contract setup, with getArtFromChain functionality (returning a base64 encoded HTML page with the art).
+    * [Code (factory contract)](https://etherscan.io/address/0x12C2c7Cd1EC395edc886DBee9323bCdEA7bF9D5A/#code)
+    * [Code (example project - Bidonville)](https://etherscan.io/address/0xd2e9c0896772071cfc87aa455bcef4a794455900#code)
+    * [Twitter](https://twitter.com/Mint256Art)
 * <b>Tiny DNN on StarkNet</b> by [<b>guiltygyoza</b>](https://github.com/guiltygyoza/): neural network inference on StarkNet
     * [Code](https://github.com/guiltygyoza/tiny-dnn-on-starknet/)
 * <b>Clones With Immutable Args</b> by [<b>wighawag</b>](https://github.com/wighawag/): enables creating clone contracts with immutable arguments.
