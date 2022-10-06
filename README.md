@@ -55,3 +55,7 @@ A compilation of smart contracts I find cool/fun/interesting.
     * [Code](https://github.com/w1nt3r-eth/hot-chain-svg)
     * [Twitter](https://twitter.com/w1nt3r_eth/status/1514380306555412482)
     * Deployed to mainnet at [`0xa7988c8abb7706e024a8f2a1328e376227aaad18`](https://etherscan.io/address/0xa7988c8abb7706e024a8f2a1328e376227aaad18/)
+* <b>evm.elf</b> by [<b>axic</b>](https://github.com/axic/): What if this code is valid EVM and a valid Linus binary (ELF)?
+    * [Code](https://github.com/axic/evm.elf/)
+    * [Twitter](https://twitter.com/alexberegszaszi/status/1554791031597563905)
+    * Explained [here](https://hackmd.io/@axic/evmelf)
